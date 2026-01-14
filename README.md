@@ -29,10 +29,6 @@ A simple **Discord-like chat application** created for learning and demonstratio
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [License](#license)
 
 ---
 
@@ -78,5 +74,4 @@ It is intended for **educational use**, not production deployment.
 
 ---
 
-## Project Structure
 
